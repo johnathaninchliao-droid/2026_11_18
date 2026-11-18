@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="890" viewBox="0 0 1160 890" role="img" aria-labelledby="title description">
+  <title id="title">IPAS 特徵工程考題分布</title>
+  <desc id="description">整理四份歷屆試卷中的18題特徵工程相關題目，按考點分類。題數不是考生錯誤率。</desc>
+  <rect width="1160" height="890" fill="#f7f9fc"/>
+  <text x="54" y="58" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="32" font-weight="700" fill="#172b4d">IPAS 特徵工程考題分布</text>
+  <text x="56" y="91" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="17" fill="#52627a">114.4-4 至 115.4-3 第一科｜整理 4 份歷屆試題，共 18 題</text>
+  <rect x="54" y="113" width="1052" height="54" rx="10" fill="#fff3cd"/>
+  <text x="74" y="147" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="16" font-weight="600" fill="#765500">注意：此圖統計考題數量，不是考生答錯率；桌面資料沒有逐題作答統計。</text>
+
+  <text x="54" y="204" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="15" font-weight="600" fill="#52627a">考點分類</text>
+  <text x="410" y="204" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="15" font-weight="600" fill="#52627a">題數（每格代表 1 題）</text>
+  <g font-family="Microsoft JhengHei, Noto Sans TC, sans-serif">
+    <text x="54" y="252" font-size="18" font-weight="600" fill="#172b4d">前處理、遺漏值與離群值</text>
+    <rect x="410" y="229" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="229" width="350" height="28" rx="6" fill="#2878b5"/>
+    <text x="776" y="251" font-size="17" font-weight="700" fill="#172b4d">7 題</text>
+    <text x="410" y="278" font-size="13" fill="#52627a">題號：114.4-4 Q34、Q45｜115.4-1 Q4、Q44｜115.4-2 Q18｜115.4-3 Q13、Q16</text>
+
+    <text x="54" y="352" font-size="18" font-weight="600" fill="#172b4d">標準化與特徵尺度</text>
+    <rect x="410" y="329" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="329" width="200" height="28" rx="6" fill="#3b91c9"/>
+    <text x="626" y="351" font-size="17" font-weight="700" fill="#172b4d">4 題</text>
+    <text x="410" y="378" font-size="13" fill="#52627a">題號：114.4-4 Q43｜115.4-1 Q6｜115.4-2 Q15｜115.4-3 Q10</text>
+
+    <text x="54" y="452" font-size="18" font-weight="600" fill="#172b4d">特徵選擇與資料洩漏</text>
+    <rect x="410" y="429" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="429" width="150" height="28" rx="6" fill="#55a7d8"/>
+    <text x="576" y="451" font-size="17" font-weight="700" fill="#172b4d">3 題</text>
+    <text x="410" y="478" font-size="13" fill="#52627a">題號：114.4-4 Q46｜115.4-2 Q11｜115.4-3 Q9</text>
+
+    <text x="54" y="552" font-size="18" font-weight="600" fill="#172b4d">類別編碼</text>
+    <rect x="410" y="529" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="529" width="100" height="28" rx="6" fill="#76bce1"/>
+    <text x="526" y="551" font-size="17" font-weight="700" fill="#172b4d">2 題</text>
+    <text x="410" y="578" font-size="13" fill="#52627a">題號：114.4-4 Q41｜115.4-2 Q13</text>
+
+    <text x="54" y="652" font-size="18" font-weight="600" fill="#172b4d">特徵交叉</text>
+    <rect x="410" y="629" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="629" width="50" height="28" rx="6" fill="#91c9e6"/>
+    <text x="476" y="651" font-size="17" font-weight="700" fill="#172b4d">1 題</text>
+    <text x="410" y="678" font-size="13" fill="#52627a">題號：114.4-4 Q2</text>
+
+    <text x="54" y="752" font-size="18" font-weight="600" fill="#172b4d">降維（PCA）</text>
+    <rect x="410" y="729" width="350" height="28" rx="6" fill="#e5eaf2"/>
+    <rect x="410" y="729" width="50" height="28" rx="6" fill="#91c9e6"/>
+    <text x="476" y="751" font-size="17" font-weight="700" fill="#172b4d">1 題</text>
+    <text x="410" y="778" font-size="13" fill="#52627a">題號：115.4-3 Q14</text>
+  </g>
+
+  <text x="54" y="858" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif" font-size="13" fill="#68778d">優先複習：資料洩漏、類別編碼、縮放方式，以及偏態資料的遺漏值／離群值處理。</text>
+</svg>
